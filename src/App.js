@@ -1,11 +1,5 @@
 import "./styles.css";
-import React, {
-  useContext,
-  useEffect,
-  useState,
-  useReducer,
-  useRef
-} from "react";
+import React, { useContext, useState, useReducer, useRef } from "react";
 
 //todo:
 //what if we get indexes without specifying them but via map
